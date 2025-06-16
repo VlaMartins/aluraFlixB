@@ -1,5 +1,8 @@
 body{
     color: beige;
-    background-color: black;
+    background-color: rgb(6, 14, 158);
 }
 
+header{
+    background-color: black;
+}
